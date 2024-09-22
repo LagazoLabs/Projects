@@ -1,7 +1,7 @@
 # Overview
 - "Hello World" is a classic message that many begginer programmers first send. This program helps demonstrate that crucial first step, but also adds some flavor by giving you the ability to send hello world in several other languages!
 
-    - [Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=vomKolJGtsY))
+    - [Software Demo Video](https://www.youtube.com/watch?v=vomKolJGtsY)
 
 # Development Environment
 
