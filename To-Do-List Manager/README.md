@@ -6,8 +6,10 @@ This program is a to-do list manager. The program allows users to add, remove, o
 ## Development Environment
 ### C++
 The C++ language is an object-oriented language that is used for embedded and application development. It is based on the C language. C++ requires the use of a compiler and linker, which are operating system– and processor-specific. C++ includes the Standard Template Library (STL), which provides support for data structures and threading.
+#### Vector Library
+The vector library in C++ adds what is known as vectors. Vectors are simmilar to arrays, however, unlike arrays, vectors are more flexible and do not have a fixed size. This makes values in these vectors easier to acesss and modify. For this program, this library is used due to the limitations that standard arrays in C++ have. 
 ### Visual Studio 2022
-Visual Studio is an integrated development environment developed by Microsoft. It is used to develop computer programs including websites, web apps, web services and mobile apps.
+Visual Studio is an integrated development environment developed by Microsoft. It is used to develop computer programs including websites, web apps, web services, and mobile apps.
 
 ## Useful Websites
 - [w3 C++ Tutorial](https://www.w3schools.com/cpp/)
