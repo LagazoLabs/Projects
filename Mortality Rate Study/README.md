@@ -2,11 +2,11 @@
 
 Mortality is known as the death rate, the measurement of the number of deaths within units of time relative to population size. There can be various factors that can influence this rate by either increasing it or decreasing it. The question becomes, "what could cause an increase or decrease of mortality rate?"
 
-[Software Demo Video](http://youtube.link.goes.here)
+- [Demonstration Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=tLxU6nEvTBg))
 
 ## Data Analysis Results
 
-### Question#1: How Does Poverty and GDP Per Capita Effect Mortality?
+### Question#1: How Does Poverty and GDP Per Capita Affect mortality?
 
 ![](main_files/figure-html/plot-1.png)
 
