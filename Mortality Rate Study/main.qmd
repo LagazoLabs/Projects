@@ -1,5 +1,5 @@
 ---
-title: "2024 United States Presidential Election Analysis"
+title: "Mortality Rate Study"
 format:
   html:
     code-fold: true
