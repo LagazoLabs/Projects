@@ -73,4 +73,4 @@ An open source technical publishing system for creating beautiful articles, webs
 
 -   Make the study available through a website.
 
--   Added further measurements/variables such as
+-   Added further measurements/variables such as gender, continent, and population.
