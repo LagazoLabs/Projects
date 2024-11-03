@@ -354,7 +354,7 @@ void retrieve_the_lost_artifact(double true_ending, double bad_ending,
         Console.WriteLine("[#]: ");
         story_choice = Console.ReadLine();
         Console.WriteLine("");
-        if (story_choice == "1")
+        if (story_choice == "2")
         {
             if (skill >= 10)
             {
@@ -377,7 +377,7 @@ void retrieve_the_lost_artifact(double true_ending, double bad_ending,
             }
             story_choice_valid = true;
         }
-        else if (story_choice == "2")
+        else if (story_choice == "1")
         {
             if (strength >= 10)
             {
