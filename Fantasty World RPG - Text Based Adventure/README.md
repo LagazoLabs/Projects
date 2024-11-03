@@ -1,14 +1,12 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The following program is a text-based adventure game that takes place in a fantasy world.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+You create a character at the very start by inputting a name and answering a series of questions that determine your stats.
 
-{Describe your purpose for writing this software.}
+Those stats help with your decisions throughout the story. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Demonstration Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=BjAhNx_X0Ks&feature=youtu.be))
 
 # Development Environment
 ## C#
