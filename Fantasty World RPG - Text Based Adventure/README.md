@@ -6,7 +6,7 @@ You create a character at the very start by inputting a name and answering a ser
 
 Those stats help with your decisions throughout the story. 
 
-[Demonstration Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=BjAhNx_X0Ks&feature=youtu.be))
+[Demonstration Video](https://www.youtube.com/watch?v=BjAhNx_X0Ks)
 
 # Development Environment
 ## C#
