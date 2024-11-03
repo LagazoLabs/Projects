@@ -17,6 +17,7 @@ C# is a versatile high-level programming language that supports various programm
 An integrated, end-to-end solution for developers looking for high productivity and seamless coordination across teams of any size
 
 # Useful Websites
+- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [w3 Schools c#](https://www.w3schools.com/cs/index.php)
 - [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY)
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
