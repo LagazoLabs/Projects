@@ -6,7 +6,7 @@ The data I originally wanted to work with was U.S. Election Data and plotting it
 
 Nothing else too special about it besides data about 109k cities and towns from all 50 states, DC, Puerto Rico, and the US Virgin Islands. Also including variables like household income, population, population density, etc...
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=b3_Gi3q_gkM)
 
 # Development Environment
 ## ArcGIS
