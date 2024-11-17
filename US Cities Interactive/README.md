@@ -1,12 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This interactive is meant to help better understand the general basics of GIS Mapping. However, it is also meant to help gauge interest in the field. I have always been interested in GIS and the various ways that data can be visualized through the use of maps. This helps understand the world around us and to make good decisions. 
 
-{Provide a description the map software that you wrote. Describe how to use your software.  Describe the source of the data that you used.}
+The data I originally wanted to work with was U.S. Election Data and plotting it onto an interactive map. However, the file was way too large to be used with what I was able to use. Then I moved onto wanting to use air quality data, however, it was incompatible with ArcGIS, so I downscaled once again to data about U.S cities.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+Nothing else too special about it besides data about 109k cities and towns from all 50 states, DC, Puerto Rico, and the US Virgin Islands. Also including variables like household income, population, population density, etc...
 
 [Software Demo Video](http://youtube.link.goes.here)
 
