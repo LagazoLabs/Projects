@@ -4,7 +4,7 @@ I have always wanted to create my own game, whether it be a simple one that can 
 
 The platformer game I created is a basic outline for what I wish to do in the future. The premise of the game is that you're just a standard street cat that is exploring the wide and open world. Currently you're only spawned in a simple world and are only able to move left and right, but there is more to come in the future.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=RK5Z-PDWJhQ)
 
 ## Development Environment
 
